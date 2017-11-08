@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+<channel id="1505">
+<display-name>PT: RTP 1 HD</display-name>
+</channel>
+    <programme start="20171108105700 +0000" stop="20171108204700 +0000" channel="1505">
+    <title lang="en">Discovering: Omar Sharif</title>
+    <desc lang="en">A portrait of Egyptian actor Omar Sharif, who rose to fame with roles in iconic films such as Lawrence of Arabia, Doctor Zhivago and Funny Girl. Also in HD.</desc>
+  </programme>
+</tv>
