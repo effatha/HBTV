@@ -55,7 +55,7 @@ http://iptv-line.com:6969/helder.afb@gmail.com/jNxfCaBlM5/3958
 http://iptv-line.com:6969/helder.afb@gmail.com/jNxfCaBlM5/3986
 #EXTINF:-1 tvg-ID="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp2.png" group-title="Generalistas",PT: RTP 2
 http://iptv-line.com:6969/helder.afb@gmail.com/jNxfCaBlM5/3999
-#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp1.png" group-title="Generalistas",PT: RTP 1
+#EXTINF:-1 tvg-ID="rtp1.pt" tvg-name="PT: RTP 1" tvg-logo="http://iptvreseller.xyz:1234/Anh/rtp1.png" group-title="Generalistas",RTP1 PT
 http://iptv-line.com:6969/helder.afb@gmail.com/jNxfCaBlM5/4000
 #EXTINF:-1 tvg-ID="sicnoticias.pt" tvg-name="PT: SIC NOTICIAS HD 1080" tvg-logo="http://iptvreseller.xyz:1234/Anh/sicnoticias_pt.png" group-title="Generalistas",PT: SIC NOTICIAS HD 1080
 http://iptv-line.com:6969/helder.afb@gmail.com/jNxfCaBlM5/7053
